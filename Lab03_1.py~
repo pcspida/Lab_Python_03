@@ -43,3 +43,12 @@ for i in range(6,0,-1):
     for k in range(7-i):
             print ' ',
 
+# Solution 2 Lab03_2e
+for i in range(6):
+    for j in range(5-i):
+            print ' ',
+    for k in range(i,0,-1):
+        print k,
+    for l in range(2,i+1):
+        print l,
+    print

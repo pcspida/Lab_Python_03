@@ -20,13 +20,17 @@ for i in range(7):
     for j in range(1,i+1):
         print j,
     print
+
+print "Next Solution"
     
 # Solution 2 Lab03_2b
 for i in range(6,0,-1):
     for j in range(1,i+1):
         print j,
     print
-    
+
+print "Next Solution"
+
 # Solution 2 Lab03_2c
 for i in range(7):
     for k in range(6-i,0,-1):
@@ -34,7 +38,7 @@ for i in range(7):
     for j in range(i,0,-1):
         print j,
     print
-    
+print "Next Solution"
 # Solution 2 Lab03_2d
 for i in range(6,0,-1):
     for j in range(1,i+1):
